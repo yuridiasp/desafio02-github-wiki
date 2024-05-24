@@ -1,0 +1,30 @@
+hr {
+    margin: 1rem 0;
+}
+
+.ItemList {
+    margin-bottom: 4rem;
+}
+
+.header-repository {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-repository h1 {
+    font-size: 1.2rem;
+}
+
+.header-repository p {
+    font-size: 0.8rem;
+}
+
+.description h2 {
+    margin-bottom: 0.5rem;
+}
+
+.description p {
+    text-indent: 2rem;
+    text-align: justify;
+}
